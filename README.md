@@ -27,6 +27,7 @@
 ![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -43,12 +44,23 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RiffaYP&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<!-- 🏆 GitHub Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=RiffaYP&theme=tokyonight&no-frame=true&margin-w=15" alt="RiffaYP Trophies" />
+</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiffaYP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<!-- 📈 Activity Graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiffaYP&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true" alt="Activity Graph" />
+</a>
 
-</div>
+<br><br>
+
+<!-- 🔥 GitHub Streak Stats -->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com?user=RiffaYP&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
