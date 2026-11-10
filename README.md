@@ -52,7 +52,4 @@
 
 <br><br>
 
-<!-- 👁️ Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=RiffaYP&label=Profile+Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
-
 </div>
