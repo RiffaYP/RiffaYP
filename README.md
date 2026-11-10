@@ -1,8 +1,9 @@
 <div align="center">
 
-# WELCOME!
-
-🚀 Tech Enthusiast | 🎓 Informatics Engineering Student | 🌱 Lifelong Learner
+<!-- 🚀 Dynamic Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=50&lines=WELCOME!;Informatics+Engineering+Student;Web+%26+Software+Developer;Lifelong+Learner" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -44,23 +45,14 @@
 
 <div align="center">
 
-<!-- 🏆 GitHub Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiffaYP&theme=tokyonight&no-frame=true&margin-w=15" alt="RiffaYP Trophies" />
-</a>
-
-<br><br>
-
-<!-- 📈 Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiffaYP&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true" alt="Activity Graph" />
-</a>
-
-<br><br>
-
-<!-- 🔥 GitHub Streak Stats -->
+<!-- 🔥 GitHub Streak Stats (Server Demolab: Sangat Stabil) -->
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://streak-stats.demolab.com?user=RiffaYP&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
+
+<br><br>
+
+<!-- 👁️ Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=RiffaYP&label=Profile+Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 
 </div>
