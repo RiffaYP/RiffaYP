@@ -11,24 +11,36 @@
 
 ## 🌟 About Me
 
-- 🎓 Currently studying **Informatics Engineering**.
-- 💻 Interested in **web development, mobile apps, AI, and software development**.
+- 🎓 Currently studying **Informatics Engineering** at **Universitas Lampung**.
+- 💻 Interested in **web development, desktop apps, AI, and software engineering**.
 - 🎯 Goal: Building useful applications that can help other people.
-- ✨ My hobby is learning something new.
+- ✨ My hobby is learning something new & experimenting with new tech.
 
 ---
 
 ## 🔧 Tech Stack
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages
+![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Web, UI & Frameworks
 ![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Three.js](https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
@@ -45,11 +57,12 @@
 
 <div align="center">
 
-<!-- 🔥 GitHub Streak Stats (Server Demolab: Sangat Stabil) -->
+<!-- 🔥 GitHub Streak Stats -->
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://streak-stats.demolab.com?user=RiffaYP&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
 <br><br>
+
 
 </div>
