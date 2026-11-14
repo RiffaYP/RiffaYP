@@ -63,4 +63,10 @@
 </a>
 
 <br><br>
+
+<!-- 📊 Most Used Languages -->
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RiffaYP&theme=tokyonight" alt="Top Languages" />
+</a>
+
 </div>
