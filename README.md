@@ -64,5 +64,9 @@
 
 <br><br>
 
+<!-- 📊 Most Used Languages -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiffaYP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
 
 </div>
